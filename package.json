@@ -1,6 +1,5 @@
 {
   "name": "gmaps-geofence",
-  "homepage": "https://safeimuslim.github.io/gmaps-geofence",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
